@@ -47,5 +47,5 @@ This is just the beginning! My next steps include:
 
 ---
 
-**Developed with 💡 by [Your Name/Username]**
+**Developed with 💡 by Ainhoa López**
 *Building the future of the decentralized web.*
